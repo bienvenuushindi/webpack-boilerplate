@@ -1,0 +1,27 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "simple webpack boilerplate",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bienvenuushindi/webpack-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bienvenuushindi/webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/bienvenuushindi/webpack-boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
